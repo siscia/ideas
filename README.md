@@ -2,6 +2,11 @@
 
 Collection of my own ideas
 
+Everybody is encourange to get charge and build any of these projects.
+
+Just in (the remote) case of building a company on one of this projects the creator of such company need to contact myself so we can arrange the term.
+
+Just build it if you want to make an open source project.
 
 ## Uta
 
